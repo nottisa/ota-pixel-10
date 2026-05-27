@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/nottisa/ota-pixel-10/releases/download/2026050901/frankel-2026050901-0918222-rootless.zip",
-    "location_csig": "https://github.com/nottisa/ota-pixel-10/releases/download/2026050901/frankel-2026050901-0918222-rootless.zip.csig"
+    "location_ota": "https://github.com/nottisa/ota-pixel-10/releases/download/2026052401/frankel-2026052401-d5e1db6-rootless.zip",
+    "location_csig": "https://github.com/nottisa/ota-pixel-10/releases/download/2026052401/frankel-2026052401-d5e1db6-rootless.zip.csig"
   }
 }
