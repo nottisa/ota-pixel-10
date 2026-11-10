@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/nottisa/ota-pixel-10/releases/download/2026110201/frankel-2026110201-0ca3272-magisk-v30.7.zip",
-    "location_csig": "https://github.com/nottisa/ota-pixel-10/releases/download/2026110201/frankel-2026110201-0ca3272-magisk-v30.7.zip.csig"
+    "location_ota": "https://github.com/nottisa/ota-pixel-10/releases/download/2026110801/frankel-2026110801-8c322e7-magisk-v31.1.zip",
+    "location_csig": "https://github.com/nottisa/ota-pixel-10/releases/download/2026110801/frankel-2026110801-8c322e7-magisk-v31.1.zip.csig"
   }
 }
